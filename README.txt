@@ -2,15 +2,6 @@
 
 This program creates a simple storage manager that can read and write blocks from a file on disk, create files, open files, and close files.
 
-## Contributors
-Anna Cole Crosbie (A20367740)
-
-Francesco Fanizza (A20079172)
-
-Patrick Flavel (A20355341) - Official Group Submitter
-
-Shomron Jacob (A20370729)
-
 ## Instructions to run the script
 
 1) To execute the create, open, close, and destroy test cases (i.e. execute the test_assign1_1.c file):
